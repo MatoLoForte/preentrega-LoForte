@@ -1,0 +1,37 @@
+
+.section{
+    padding: 10px;
+
+    .paula{
+        font-weight: bold;
+        font-size: 3rem;
+        display: flex;
+        justify-content: center;
+    }
+    .paula__contenido{
+        display: flex;
+        justify-content: center;
+        padding-left: 1rem;
+
+        p{
+            padding-right: 1rem;
+            margin-top: 100px;
+        }
+    }
+    .svraka{
+        font-weight: bold;
+        font-size: 3rem;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .svraka__contenido{
+        display: flex;
+        justify-content: center;
+        padding-left: 1rem;
+    
+        p{
+            padding-left: 1rem;
+            margin-top: 90px;}
+    }
+}

@@ -1,0 +1,25 @@
+#galeria {
+    margin-top: 12em;
+    padding: 1.6em;
+
+    h1 {
+        font-size: 3rem;
+        font-weight: bold;
+        text-align: center;
+        }
+
+    a img {
+        width: 100%;
+        border: 5px solid $secundaryColor;
+        box-shadow: 1px 1px 5px 5px $shadowColor ;
+    
+        &:hover {
+            border: 1rem solid $mainColor;
+        }
+        }       
+
+    .col-lg-4{
+        padding: 1rem;
+    }
+    
+    }
