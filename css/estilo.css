@@ -196,36 +196,36 @@ ul {
   outline: 0;
 }
 
-.section {
+.sobre {
   padding: 10px;
 }
-.section .paula {
+.sobre .paula {
   font-weight: bold;
   font-size: 3rem;
   display: flex;
   justify-content: center;
 }
-.section .paula__contenido {
+.sobre .paula__contenido {
   display: flex;
   justify-content: center;
   padding-left: 1rem;
 }
-.section .paula__contenido p {
+.sobre .paula__contenido p {
   padding-right: 1rem;
   margin-top: 100px;
 }
-.section .svraka {
+.sobre .svraka {
   font-weight: bold;
   font-size: 3rem;
   display: flex;
   justify-content: center;
 }
-.section .svraka__contenido {
+.sobre .svraka__contenido {
   display: flex;
   justify-content: center;
   padding-left: 1rem;
 }
-.section .svraka__contenido p {
+.sobre .svraka__contenido p {
   padding-left: 1rem;
   margin-top: 90px;
 }
